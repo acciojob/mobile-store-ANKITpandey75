@@ -1,0 +1,14 @@
+{
+  "name": "mobile-store",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "vite --port 8080", "build": "vite" },
+  "dependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "4.5.14",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0"
+  }
+}
